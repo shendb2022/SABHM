@@ -1,2 +1,2 @@
 # SSADM
-Spatial-Spectral Awareness Decomposition Model for Hyperspectral Target Detection.
+This code will be released soon.
