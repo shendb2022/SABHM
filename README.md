@@ -1,2 +1,2 @@
-# SABHM
-The code of the SABHM for hyperspectral target detection will be released soon. 
+# SSADM
+Spatial-Spectral Awareness Decomposition Model for Hyperspectral Target Detection.
